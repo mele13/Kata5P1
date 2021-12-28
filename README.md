@@ -10,4 +10,4 @@ Conexión a una nueva base de datos llamada 'EMAIL'. Se insertan registros a la 
 
 ### Versión 3
 Se mantiene la base de datos creada en la versión 2. Se lee un fichero de emails.
-<br \>Los emails se validan para irse guardando como registros en la base de datos 'EMAIL'.
+<br />Los emails se validan para irse guardando como registros en la base de datos 'EMAIL'.
