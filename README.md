@@ -1,7 +1,7 @@
 # Kata5P1
 ## Ingeniería del Software II
 Finalidad del proyecto: crear y mostrar un histograma de dominios de una lista de correos electrónicos almacenados en una base de datos.
-<br /><ins>>>Dentro de la carpeta src se encuentran todas las versiones.</ins>
+<br /><ins>Dentro de la carpeta src se encuentran todas las versiones.</ins>
 
 ### Versión 1
 Conexión a la base de datos 'KATA5'. Muestreo de los registros a través de un histograma.
